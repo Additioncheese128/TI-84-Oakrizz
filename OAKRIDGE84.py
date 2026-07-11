@@ -5,7 +5,7 @@ print("Script by ParrotMan")
 print("Program for TI-84+ CE Python")
 
 try:
-    demand = int(input("\nInput Full Demand: "))
+    demand = int(input("\nInput Demand: "))
 
     if demand <= 1170:
         nextHour = 6
