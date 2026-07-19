@@ -1,5 +1,5 @@
 # Oakridge-Configurations 
-a repository for TI-84/Casio 50 (python compatible) scripts, ment to help with configuring the reactor.
+a repository for TI-84/Casio 50 (python compatible) scripts, ment to help with configuring the reactor. (MODIFIED BY ADDITION_CHEESE128!!!! only like one line lmao)
 
 ## To Run These
 These scripts can be run on a TI-84 Plus CE, Casio CI-50, or a desktop computor.
